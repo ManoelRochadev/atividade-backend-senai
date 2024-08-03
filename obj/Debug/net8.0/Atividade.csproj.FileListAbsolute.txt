@@ -1,0 +1,14 @@
+/home/manoel/c#/Atividade/bin/Debug/net8.0/Atividade
+/home/manoel/c#/Atividade/bin/Debug/net8.0/Atividade.deps.json
+/home/manoel/c#/Atividade/bin/Debug/net8.0/Atividade.runtimeconfig.json
+/home/manoel/c#/Atividade/bin/Debug/net8.0/Atividade.dll
+/home/manoel/c#/Atividade/bin/Debug/net8.0/Atividade.pdb
+/home/manoel/c#/Atividade/obj/Debug/net8.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/home/manoel/c#/Atividade/obj/Debug/net8.0/Atividade.AssemblyInfoInputs.cache
+/home/manoel/c#/Atividade/obj/Debug/net8.0/Atividade.AssemblyInfo.cs
+/home/manoel/c#/Atividade/obj/Debug/net8.0/Atividade.csproj.CoreCompileInputs.cache
+/home/manoel/c#/Atividade/obj/Debug/net8.0/Atividade.dll
+/home/manoel/c#/Atividade/obj/Debug/net8.0/refint/Atividade.dll
+/home/manoel/c#/Atividade/obj/Debug/net8.0/Atividade.pdb
+/home/manoel/c#/Atividade/obj/Debug/net8.0/Atividade.genruntimeconfig.cache
+/home/manoel/c#/Atividade/obj/Debug/net8.0/ref/Atividade.dll
